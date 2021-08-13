@@ -1,3 +1,6 @@
+# Program to count frequency of digits in an integer
+
+
 public class frequency
 {
   static int frequencyDigits(int n,int d)
